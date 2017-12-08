@@ -7,7 +7,7 @@ url: "https://charlie.kim" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
-username: Charlie
+username: Charlie's Chocolate Factory
 user_description: Charlie Kim
 disqus_username: disqus_username
 
@@ -32,8 +32,8 @@ links:
     url: /
   - title: About
     url: /about/
-  - title: Contact
-    url: /contact/
+#  - title: Contact
+#    url: /contact/
 
 # Exclude my node related stuff
-exclude: ['package.json', 'src', 'node_modules']
+#exclude: ['package.json', 'src', 'node_modules']
